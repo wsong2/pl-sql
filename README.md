@@ -1,1 +1,1 @@
-# pl-sql
+Practical scripts
